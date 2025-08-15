@@ -22,7 +22,8 @@ This snippet is perfect for adding a countdown to your videos, presentations, or
 - Easily change font, color, and size.
 - Option to display seconds only or include fractional seconds.
 - Fully scriptable for integration into larger Manim projects.
-
+- To start just copy the code from main.py into your file and badabing bada booom you have the countdown timer,
+- It has three inputs, self from manim, the duration and the color
 ---
 
 ## Requirements
