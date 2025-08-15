@@ -4,7 +4,11 @@ A simple animated countdown timer created with [Manim](https://docs.manim.commun
 This snippet is perfect for adding a countdown to your videos, presentations, or educational animations.
 
 ## Preview
-![Countdown Timer Preview](download.mp4)
+
+
+
+https://github.com/user-attachments/assets/2992dfc7-8e18-47cd-8010-5bedf1dc2e19
+
 
 
 
